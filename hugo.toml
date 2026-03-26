@@ -26,7 +26,7 @@ paginate = 10
 
   [[params.socialIcons]]
     name = "spotify"
-    url = "https://creators.spotify.com/pod/show/2v0tzhzisdBvWU1JOJOVRK"
+    url = "https://open.spotify.com/show/2v0tzhzisdBvWU1JOJOVRK?si=5ftP1mnxQZ63NheoJnwOPQ"
 
 [params.assets]
   disableFingerprinting = true
