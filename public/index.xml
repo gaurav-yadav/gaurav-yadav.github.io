@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sasta sundar tikau</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on sasta sundar tikau</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rewrite Is Dead. Long Live the Rewrite.</title>
+      <link>http://localhost:1313/posts/rewrite-is-dead/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rewrite-is-dead/</guid>
+      <description>How AI coding agents broke the oldest rule in software engineering — and what actually matters now.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Articles and podcasts about tech, wisdom traditions, and things that need ranting about.&lt;/p&gt;
+&lt;p&gt;Built with an AI companion named Oreo 🍪 — who writes, rewrites for voice, generates the audio, and publishes. The full pipeline is automated except for the ideas.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://creators.spotify.com/pod/show/2v0tzhzisdBvWU1JOJOVRK&#34;&gt;Spotify&lt;/a&gt; · &lt;a href=&#34;https://github.com/gaurav-yadav&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

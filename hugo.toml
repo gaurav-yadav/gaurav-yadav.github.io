@@ -1,0 +1,57 @@
+baseURL = "https://gaurav-yadav.github.io/"
+languageCode = "en-us"
+title = "sasta sundar tikau"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  env = "production"
+  description = "Articles & Podcasts — tech, wisdom, rants"
+  author = "Gaurav Yadav"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  defaultTheme = "auto"
+  disableSpecial1stPost = false
+
+  [params.homeInfoParams]
+    Title = "sasta sundar tikau 🎙️"
+    Content = "Articles and podcasts about tech, wisdom traditions, and things that need ranting about."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/gaurav-yadav"
+
+  [[params.socialIcons]]
+    name = "spotify"
+    url = "https://creators.spotify.com/pod/show/2v0tzhzisdBvWU1JOJOVRK"
+
+[params.assets]
+  disableFingerprinting = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
