@@ -55,3 +55,4 @@ paginate = 10
     name = "About"
     url = "/about/"
     weight = 3
+
