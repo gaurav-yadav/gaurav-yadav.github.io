@@ -7,6 +7,14 @@ showToc: true
 TocOpen: false
 ---
 
+## 🎧 Listen to this article
+
+{{< audio src="true-crime-podcast.mp3" >}}
+
+*~15 min · Dual-host narration generated with Voxtral TTS*
+
+---
+
 There's a well-worn piece of social commentary about true crime fans: they're either macabre thrill-seekers, empathy addicts, or women who've confused anxiety for entertainment. The genre gets dismissed as poison dressed up as a podcast — lurid, exploitative, probably bad for you. And honestly, some of it is.
 
 But here's what the research actually says: consuming true crime may be one of the more evolutionarily sensible things a modern human can do with a commute.
