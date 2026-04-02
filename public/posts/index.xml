@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on sasta sundar tikau</title><link>https://gaurav-yadav.github.io/posts/</link><description>Recent content in Posts on sasta sundar tikau</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gaurav-yadav.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Your Brain Is Running a Drill: The Real Psychology Behind True Crime's Grip</title><link>https://gaurav-yadav.github.io/posts/true-crime-psychology/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://gaurav-yadav.github.io/posts/true-crime-psychology/</guid><description>The obvious framing is morbid entertainment. The real story is a psychological survival system — preparation, empathy, and the brain&amp;#39;s ancient threat-processing machinery.</description></item><item><title>The Absorption Machine: How China Domesticated Foreign Ideas</title><link>https://gaurav-yadav.github.io/posts/china-domestication/</link><pubDate>Fri, 27 Mar 2026 13:00:00 +0530</pubDate><guid>https://gaurav-yadav.github.io/posts/china-domestication/</guid><description>China didn&amp;#39;t just receive ideas from the Silk Road — it metabolized them. Buddhism became a different religion. Manichaeism survived only in China, disguised as folk Buddhism. A Central Asian lute became so Chinese that critics had to argue against its foreignness. What was the mechanism?</description></item><item><title>Every Saint Was First a Scandal — Kabir. Bulleh Shah. Ibn Arabi. Nusrat.</title><link>https://gaurav-yadav.github.io/posts/boundary-crosser/</link><pubDate>Wed, 25 Mar 2026 18:00:00 +0530</pubDate><guid>https://gaurav-yadav.github.io/posts/boundary-crosser/</guid><description>They crossed the hardest boundary in their tradition. Got rejected, accused, cut off. Then they died — and everyone claimed them.</description></item><item><title>The Rewrite Is Dead. Long Live the Rewrite.</title><link>https://gaurav-yadav.github.io/posts/rewrite-is-dead/</link><pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate><guid>https://gaurav-yadav.github.io/posts/rewrite-is-dead/</guid><description>How AI coding agents broke the oldest rule in software engineering — and what actually matters now.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on sasta sundar tikau</title>
+    <link>https://gaurav-yadav.github.io/posts/</link>
+    <description>Recent content in Posts on sasta sundar tikau</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2026 01:50:00 +0530</lastBuildDate>
+    <atom:link href="https://gaurav-yadav.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Absorption Machine: How China Domesticated Foreign Ideas</title>
+      <link>https://gaurav-yadav.github.io/posts/china-domestication/</link>
+      <pubDate>Fri, 03 Apr 2026 01:50:00 +0530</pubDate>
+      <guid>https://gaurav-yadav.github.io/posts/china-domestication/</guid>
+      <description>China produced transformed traditions that survived political disruption and lost their foreign origin more completely than any comparable case. The question is what structural apparatus produced that outcome — and what the Roman, Byzantine, and Indian cases reveal when examined alongside China.</description>
+    </item>
+    <item>
+      <title>Your Brain Is Running a Drill: The Real Psychology Behind True Crime&#39;s Grip</title>
+      <link>https://gaurav-yadav.github.io/posts/true-crime-psychology/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gaurav-yadav.github.io/posts/true-crime-psychology/</guid>
+      <description>The obvious framing is morbid entertainment. The real story is a psychological survival system — preparation, empathy, and the brain&amp;#39;s ancient threat-processing machinery.</description>
+    </item>
+    <item>
+      <title>Every Saint Was First a Scandal — Kabir. Bulleh Shah. Ibn Arabi. Nusrat.</title>
+      <link>https://gaurav-yadav.github.io/posts/boundary-crosser/</link>
+      <pubDate>Wed, 25 Mar 2026 18:00:00 +0530</pubDate>
+      <guid>https://gaurav-yadav.github.io/posts/boundary-crosser/</guid>
+      <description>They crossed the hardest boundary in their tradition. Got rejected, accused, cut off. Then they died — and everyone claimed them.</description>
+    </item>
+    <item>
+      <title>The Rewrite Is Dead. Long Live the Rewrite.</title>
+      <link>https://gaurav-yadav.github.io/posts/rewrite-is-dead/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gaurav-yadav.github.io/posts/rewrite-is-dead/</guid>
+      <description>How AI coding agents broke the oldest rule in software engineering — and what actually matters now.</description>
+    </item>
+  </channel>
+</rss>
